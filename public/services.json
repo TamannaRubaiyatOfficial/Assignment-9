@@ -1,0 +1,122 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Cat Winter Sweaters",
+    "providerName": "Feline Threads",
+    "providerEmail": "support@felinethreads.com",
+    "price": 30,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Handmade cozy sweaters designed specifically for cats to keep them warm during cold months. Available in multiple sizes and colors for different cat breeds. Made from soft, durable, and hypoallergenic materials. Perfect for indoor comfort and short outdoor walks. We provide guidance on proper fit and washing instructions. Each sweater is designed for mobility and comfort. Keep your feline friend warm and stylish all winter long.",
+    "image": "https://i.ibb.co.com/Z65xP9Kv/61jo-Tr-S-HL-AC-UF1000-1000-QL80.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Cat Paw Protection Balm",
+    "providerName": "SnowPaw Cat Care",
+    "providerEmail": "contact@snowpawcat.com",
+    "price": 15,
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "description": "Protect your cat’s paws from cold floors and frostbite with our paw balm treatment. It forms a safe, protective layer to prevent cracking and dryness. Gentle and safe for all cats, even kittens. Our experts provide tips for home application. This treatment keeps your cat’s paws healthy and comfortable in winter. Helps prevent irritation and paw injuries. Ensure happy and active paws during the cold season.",
+    "image": "https://i.ibb.co.com/cSP853ZT/013a1b36-394c-44bf-8775-f8bca5a90c05-b52ed7af7e8477dc60ba51a8b13e0093.jpg",
+    "category": "Care"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Cat Grooming & Winter Coat Care",
+    "providerName": "CozyCats Grooming",
+    "providerEmail": "hello@cozycats.com",
+    "price": 35,
+    "rating": 4.7,
+    "slotsAvailable": 3,
+    "description": "Full grooming service to maintain your cat’s coat during winter months. We remove tangles and loose fur to prevent matting. Use moisturizing shampoo and conditioner suitable for cats. Inspect skin for dryness and irritation. Gentle and stress-free handling ensures a comfortable experience. We provide advice for at-home coat maintenance. Your cat will feel soft, healthy, and happy.",
+    "image": "https://i.ibb.co.com/27YM4Yk6/images-q-tbn-ANd9-Gc-THYw9w-Wd0uz-EOyp-O35pw-Fwm-G9m-Qn-T2-OEL0j-Q-s.jpg",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Cat Cozy Blankets",
+    "providerName": "Feline Comfort",
+    "providerEmail": "support@felinecomfort.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Soft, warm blankets designed to keep your cat cozy and comfortable in winter. Made from durable, hypoallergenic materials that are easy to wash. Perfect for beds, crates, or couches. Helps maintain body heat during cold nights. Provides security and warmth for shy or elderly cats. Ideal for multi-cat households with varying sizes. Ensure your cat stays relaxed, warm, and happy all season.",
+    "image": "https://i.ibb.co.com/RkL71dKw/8b574832-8405-46df-bb1e-2dd4e70dd7c3.jpg",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Cat Winter Nutrition Plan",
+    "providerName": "Healthy Felines",
+    "providerEmail": "info@healthyfelines.com",
+    "price": 50,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Custom nutrition plan to keep your cat healthy and active during winter. We consider breed, age, and health needs. Tips for treats, hydration, and seasonal supplements included. Plan helps prevent winter-related health issues like dry skin and lethargy. Advice is simple and easy to follow at home. Keeps cats energetic and happy. Comprehensive approach ensures overall wellness in cold months.",
+    "image": "https://i.ibb.co.com/fVYPxMS6/images-q-tbn-ANd9-Gc-QP7-Wfuxrxmne-K-y4m-B9a-Ey-Jtq-Yniv3p-Cu-I3-A-s.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Cat Indoor Playground Setup",
+    "providerName": "Feline Fun",
+    "providerEmail": "hello@felinefun.com",
+    "price": 45,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Keep your cat active indoors during cold weather with a custom playground setup. Includes scratching posts, tunnels, and climbing areas. Designed to stimulate mental and physical activity. Safe and non-toxic materials are used. Installation guidance provided to fit your home layout. Helps prevent boredom and promotes healthy exercise. Your cat will stay playful, healthy, and happy.",
+    "image": "https://i.ibb.co.com/yBsV6qfM/images-q-tbn-ANd9-Gc-SK20-Gdrs4-BTHj6bj-Hmtl22-DFod4-Dz5-Jx-Njdw-s.jpg",
+    "category": "Wellness"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Cat Winter Toy Bundle",
+    "providerName": "Cozy Cats Toys",
+    "providerEmail": "support@cozycatstoys.com",
+    "price": 35,
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "description": "Specially designed toy bundle for indoor winter play. Includes interactive balls, feather wands, and catnip toys. Keeps cats entertained and active during cold months. Helps maintain mental stimulation and reduce stress. Safe and durable materials ensure long-lasting fun. Tips provided for interactive play with owners. Perfect for keeping your cat happy indoors.",
+    "image": "https://i.ibb.co.com/R4QrxTDq/christmas-cat-toys-fi.jpg",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Dog Winter Coat Fitting",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom winter coat fitting for dogs to keep them warm and stylish. Coats are insulated and suitable for different breeds. Our team ensures a perfect fit for comfort and mobility. Provides tips on maintenance and layering. Durable, weather-resistant material keeps dogs warm during walks. Helps prevent cold-related health issues. Your dog will enjoy winter outings comfortably and safely.",
+    "image": "https://i.ibb.co.com/nMtrjrct/33454986521-a9967fcd02-1.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Dog Paw Protection Wax",
+    "providerName": "SnowPaw Care",
+    "providerEmail": "contact@snowpaw.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 6,
+    "description": "Protect your dog’s paws from ice, snow, and salt with our paw wax treatment. Creates a safe protective layer to prevent cracking and dryness. Gentle and safe for all breeds. Tips included for applying wax at home. Ensures comfortable outdoor walks in winter. Prevents irritation and paw injuries. Your dog’s paws stay healthy, happy, and pain-free during cold months.",
+    "image": "https://i.ibb.co.com/Jjz9p5x3/Images-05-1d1c2fe5-4eaf-4276-91f1-7741f07912a6.jpg",
+    "category": "Care"
+  },
+  {
+    "serviceId": 10,
+    "serviceName": "Dog Winter Grooming",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming service to keep your dog’s coat healthy in winter. Includes a warm bath and moisturizing paw treatment. Nails trimmed and mats removed for comfort. Checks for dry skin and irritation. Provides advice for at-home grooming routines. Each session is gentle and stress-free. Ensures dogs look and feel great all season.",
+    "image": "https://i.ibb.co.com/yFwmZThh/henar-langa-ZVd-Zw2p08y4-unsplash-scaled.jpg",
+    "category": "Grooming"
+  }
+]
