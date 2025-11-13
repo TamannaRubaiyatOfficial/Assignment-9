@@ -1,2 +1,45 @@
+/* google font import */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
+
 @import "tailwindcss";
 @plugin "daisyui";
+
+@plugin "daisyui/theme" {
+  name: 'warm-paws';
+  default: true;
+  --color-primary: #FB7C39;
+  --color-primary-content: #F7A668;
+  --color-secondary: #30338B;
+  --color-base-100: #FEF8F3;
+  --color-base-200: #FDF2EA;
+  --color-accent: #412d5c;
+}
+
+/* google font styles */
+body {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  background-color: var(--color-base-100);
+}
+
+.heading-font {
+  font-family: "Mouse Memoirs", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.shadow-input {
+  box-shadow: 0 6px 25px 6px rgba(0, 0, 0, 0.05);
+}
+
+.signup-input {
+  @apply bg-white w-full px-5 py-4.5 mt-[20px] placeholder:capitalize placeholder:text-[15px] placeholder:font-normal text-accent outline-none hover:border-primary border border-transparent box-border focus:border-primary
+}
+
+.login-input {
+  @apply bg-white w-full px-5 py-4.5 mt-5 placeholder:capitalize placeholder:text-[15px] placeholder:font-normal text-accent outline-none hover:border-primary border border-transparent box-border focus:border-primary 
+}

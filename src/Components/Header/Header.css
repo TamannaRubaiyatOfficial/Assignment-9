@@ -1,0 +1,38 @@
+a.active {
+  color: var(--color-primary);
+}
+
+a.transitioning {
+  view-transition-name: my-transition;
+}
+
+.headerMenu {
+  position: relative;
+  display: inline-block;
+  transition: color 0.3s ease;
+}
+
+.headerMenu::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 1.5px;
+  background-color: var(--color-primary);
+  transition: width 0.3s ease, background-color 0.3s ease;
+  border-radius: 4px;
+}
+
+.headerMenu:hover {
+  color: var(--color-primary);
+}
+
+.headerMenu:hover::after {
+  width: 60%;
+}
+
+a.active::after {
+  width: 60%;
+  background-color: var(--color-primary);
+}
