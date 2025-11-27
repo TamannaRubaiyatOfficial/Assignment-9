@@ -15,6 +15,7 @@
   --color-secondary: #30338B;
   --color-base-100: #FEF8F3;
   --color-base-200: #FDF2EA;
+  --color-base-300: #1B1E83;
   --color-accent: #412d5c;
 }
 
@@ -37,9 +38,9 @@ body {
 }
 
 .signup-input {
-  @apply bg-white w-full px-5 py-4.5 mt-[20px] placeholder:capitalize placeholder:text-[15px] placeholder:font-normal text-accent outline-none hover:border-primary border border-transparent box-border focus:border-primary
+  @apply bg-white w-full px-5 py-4.5 mt-[20px] placeholder:capitalize placeholder:text-[15px] placeholder:font-normal text-accent outline-none hover:border-primary border border-transparent box-border focus:border-primary text-[16px]
 }
 
 .login-input {
-  @apply bg-white w-full px-5 py-4.5 mt-5 placeholder:capitalize placeholder:text-[15px] placeholder:font-normal text-accent outline-none hover:border-primary border border-transparent box-border focus:border-primary 
+  @apply bg-white w-full px-5 py-4.5 mt-5 placeholder:capitalize placeholder:text-[15px] placeholder:font-normal text-accent outline-none hover:border-primary border border-transparent box-border focus:border-primary text-[16px] 
 }
